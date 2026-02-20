@@ -1,0 +1,5 @@
+{
+  "name": "Patient Self-Screening Tool",
+  "description": "A self-administered mental health screening questionnaire with dynamic routing based on symptom patterns.",
+  "requestFramePermissions": []
+}
